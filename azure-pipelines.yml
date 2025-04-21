@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: 'Glad'
+  name: 'GladAgent'
 
 steps:
 - task: Maven@3
